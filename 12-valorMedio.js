@@ -5,7 +5,7 @@ for (let i = 0; i < notas.length; i++) {
  sumaNotas += notas[i];
 };
 
-
+<i class="fa fa-calendar" aria-hidden="true"></i>
 const mediaAritmetica = sumaNotas/notas.length;
 console.log(sumaNotas);
 
