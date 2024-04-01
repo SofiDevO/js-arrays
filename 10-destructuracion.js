@@ -9,7 +9,7 @@ const lstNotasYAlumnos = [
 const [lstAlumnos, lstNotas] = lstNotasYAlumnos;
 
 
-const nombreALumno = "Isabel";
+const nombreALumno = "Elena";
 
 if (lstAlumnos.includes(nombreALumno)) {
   const posicionAlumno = lstAlumnos.indexOf(nombreALumno);
